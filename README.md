@@ -1,8 +1,15 @@
-## 1. 서비스 개요 📚
-### 도서 관리 애플리케이션 (library-menagement)
-* 책 정보 제공 및 추천 서비스
+<h1 align="center">책 정보 제공 및 추천 애플리케이션</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72064966/183895792-85ccb741-10df-406f-bc36-d372763735e3.JPG">
+</p>
 
-## 2. 애플리케이션 기능 🛠
+## 기술 스택
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+</p>
+
+## 애플리케이션 기능 🛠
 * 전체 항목 보기
   * 리스트뷰를 활용하여 DB에 저장한 전체 항목을 화면에 출력
 * 새로운 항목 추가
